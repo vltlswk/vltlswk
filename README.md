@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=vltlswk)](https://solved.ac/vltlswk)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vltlswk)](https://solved.ac/vltlswk)
